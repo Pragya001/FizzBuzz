@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:ActivityInput xmlns:ns0="http://www.tibco.com/namespaces/tnt/plugins/jms">
+<Body><?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns0:ProductFeed xmlns:ns0="http://www.tesco.com/direct/newdo/productFeed">
+    <ns0:skus>
+        <ns0:skuId>761-5523</ns0:skuId>
+        <ns0:organization_code>UKM</ns0:organization_code>
+        <ns0:iccCategoryId>Mobile Phone</ns0:iccCategoryId>
+        <ns0:productStatus>Active</ns0:productStatus>
+        <ns0:fulfilledByTesco>N</ns0:fulfilledByTesco>
+        <ns0:productType></ns0:productType>
+        <ns0:activeDDSupplierExists>Y</ns0:activeDDSupplierExists>
+        <ns0:suppliers>
+            <ns0:supplierName>Oakwood Distribution Ltd</ns0:supplierName>
+            <ns0:supplierId>66650</ns0:supplierId>
+            <ns0:enrolmentStatus>Active</ns0:enrolmentStatus>
+            <ns0:mSKUId>8806090196003</ns0:mSKUId>
+        </ns0:suppliers>
+        <ns0:warehouseDetails></ns0:warehouseDetails>
+    </ns0:skus>
+    <ns0:skus>
+        <ns0:skuId>761-5523</ns0:skuId>
+        <ns0:organization_code>UKM</ns0:organization_code>
+        <ns0:iccCategoryId>Mobile Phone</ns0:iccCategoryId>
+        <ns0:productStatus>Active</ns0:productStatus>
+        <ns0:fulfilledByTesco>N</ns0:fulfilledByTesco>
+        <ns0:productType></ns0:productType>
+        <ns0:activeDDSupplierExists>Y</ns0:activeDDSupplierExists>
+        <ns0:suppliers>
+            <ns0:supplierName>Oakwood Distribution Ltd</ns0:supplierName>
+            <ns0:supplierId>66650</ns0:supplierId>
+            <ns0:enrolmentStatus>Active</ns0:enrolmentStatus>
+            <ns0:mSKUId>8806090196003</ns0:mSKUId>
+        </ns0:suppliers>
+        <ns0:warehouseDetails></ns0:warehouseDetails>
+    </ns0:skus>
+    <ns0:skus>
+        <ns0:skuId>761-5523</ns0:skuId>
+        <ns0:organization_code>UKM</ns0:organization_code>
+        <ns0:iccCategoryId>Mobile Phone</ns0:iccCategoryId>
+        <ns0:productStatus>Active</ns0:productStatus>
+        <ns0:fulfilledByTesco>N</ns0:fulfilledByTesco>
+        <ns0:productType></ns0:productType>
+        <ns0:activeDDSupplierExists>Y</ns0:activeDDSupplierExists>
+        <ns0:suppliers>
+            <ns0:supplierName>Oakwood Distribution Ltd</ns0:supplierName>
+            <ns0:supplierId>66650</ns0:supplierId>
+            <ns0:enrolmentStatus>Active</ns0:enrolmentStatus>
+            <ns0:mSKUId>8806090196003</ns0:mSKUId>
+        </ns0:suppliers>
+        <ns0:warehouseDetails></ns0:warehouseDetails>
+    </ns0:skus>
+    <ns0:batch_id>425026919</ns0:batch_id>
+    <ns0:batchcreation_time>2020-09-01T12:01:23.301+01:00</ns0:batchcreation_time>
+</ns0:ProductFeed>
+</Body>
+</ns0:ActivityInput>
