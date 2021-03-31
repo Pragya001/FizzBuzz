@@ -1,7 +1,7 @@
 package com.demo.xml.util;
 
 import com.demo.xml.model.XMLTemplate;
-import com.sun.xml.internal.bind.marshaller.DataWriter;
+import com.sun.xml.bind.marshaller.DataWriter;
 import org.apache.commons.lang3.StringEscapeUtils;
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;

@@ -1,6 +1,7 @@
 package com.demo.xml.util;
 
-import com.sun.xml.internal.bind.marshaller.CharacterEscapeHandler;
+import com.sun.xml.bind.marshaller.CharacterEscapeHandler;
+
 import java.io.IOException;
 import java.io.Writer;
 

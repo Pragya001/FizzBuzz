@@ -26,4 +26,6 @@ public class ProductFeed implements Serializable, XMLTemplate {
         this.skus.add(new Skus());
         this.skus.add(new Skus());
     }
+
+
 }

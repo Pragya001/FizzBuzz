@@ -2,7 +2,7 @@ package com.demo.xml.mapping;
 
 import com.demo.xml.model.XMLTemplate;
 import com.demo.xml.model.ndoservice.NdoXml;
-import com.sun.xml.internal.bind.marshaller.DataWriter;
+import com.sun.xml.bind.marshaller.DataWriter;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import javax.xml.bind.JAXBException;
